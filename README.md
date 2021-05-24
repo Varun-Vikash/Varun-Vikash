@@ -2,8 +2,8 @@
 
 |  <a href="https://t.me/Ghost73_Gaming/"><img src="https://telegra.ph/file/157ceb573fbff1a56c600.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Gноsт73](https://t.me/inukaasith/)**                                                                                |
-| <a href="https://github.com/inukaasith"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/inuka.max.3"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/inukaasith7/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
+|       **[Gноsт73](https://t.me/ghost73_gaming/)**                                                                                |
+| <a href="https://github.com/varun-vikash"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/i.am.the.vr7"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/the.vr7/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
 
 
 
