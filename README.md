@@ -1,7 +1,5 @@
 # Hey , I am Varun Vikash  🇱🇰 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-## Please note: My popular repositories are at [TeamDaisyX](https://GitHub.com/teamdaisyx) & [InfinityBots](https://github.com/infinity-bots)
-
 |  <a href="https://t.me/Ghost73_Gaming/"><img src="https://telegra.ph/file/157ceb573fbff1a56c600.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Inukaasith](https://t.me/inukaasith/)**                                                                                |
