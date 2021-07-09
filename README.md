@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hey , I am Varun Vikash <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+  <h1> Hey , I am Varun Vikash <img src="https://github.com/Varun-Vikash/Varun-Vikash/blob/main/Icons/Hi.gif" width="30px"> </h1>
 
 
 |  <a href="https://varunvikash.carrd.co"><img src="https://telegra.ph/file/157ceb573fbff1a56c600.jpg" width="150px" height="150px" /></a> |
