@@ -21,7 +21,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Varun-Vikash&count_private=true&show_icons=true&theme=dark"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun-vikash&theme=dark&hide_border=true">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun-vikash&theme=dark">
-https://activity-graph.herokuapp.com/graph?username=Varun-Vikash&bg_color=000000&color=F1F1F1&line=1C74FA&point=cdcdcd
+
+<a href="https://github.com/Varun-Vikash"><img alt="Varun Vikash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Varun-Vikash&bg_color=000000&color=F1F1F1&line=1C74FA&point=cdcdcd" /></a>
+
 ##
 
 ### 💻 *Currently working on*
@@ -31,5 +33,4 @@ https://activity-graph.herokuapp.com/graph?username=Varun-Vikash&bg_color=000000
 ---
 
 
-<a href="https://github.com/Varun-Vikash"><img alt="Varun Vikash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Varun-Vikash&bg_color=000000&color=F1F1F1&line=1C74FA&point=cdcdcd" /></a>
 
