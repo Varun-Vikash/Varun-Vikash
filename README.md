@@ -13,7 +13,7 @@
 
 ### *Now playing on Spotify*
 
-// [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=0nj9ujjxp8c35clrkc2s1jcc5&cover_image=true&theme=novatorem)](https://open.spotify.com/user/0nj9ujjxp8c35clrkc2s1jcc5?si=921f62dd014c4206)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=0nj9ujjxp8c35clrkc2s1jcc5&cover_image=true&theme=novatorem)](https://open.spotify.com/user/0nj9ujjxp8c35clrkc2s1jcc5?si=921f62dd014c4206)
 
 ##
 
