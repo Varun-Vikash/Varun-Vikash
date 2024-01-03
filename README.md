@@ -9,12 +9,12 @@
 
 ## [![Telegram](https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=Telegram)](https://telegram.dog/Ghost73_Gaming) [![INSTAGRAM](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram)](https://instagram.com/the.vr7) [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter)](https://twitter.com/varunvikash_) [![Faceebook](https://img.shields.io/badge/facebook-violet?style=for-the-badge&logo=Facebook)](https://www.facebook.com/i.am.the.vr7) [![Snapchat](https://img.shields.io/badge/snapchat-yellow?style=for-the-badge&logo=Snapchat)](https://snapchat.com/add/the.vr7)
   
-<>   </div>
+   </div>
 
 ### *Now playing on Spotify*
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=0nj9ujjxp8c35clrkc2s1jcc5&cover_image=true&theme=novatorem)](https://open.spotify.com/user/0nj9ujjxp8c35clrkc2s1jcc5?si=921f62dd014c4206)
-<>
+
 ##
 
 ### :octocat: *Github Status* ![](https://komarev.com/ghpvc/?username=varun-vikash&color=blueviolet&style=flat-square) 
