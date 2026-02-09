@@ -11,18 +11,10 @@
   
    </div>
 
-### *Now playing on Spotify*
+### :octocat: *Github Stats* ![](https://komarev.com/ghpvc/?username=varun-vikash&color=blueviolet&style=flat-square) 
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=0nj9ujjxp8c35clrkc2s1jcc5&cover_image=true&theme=novatorem)](https://open.spotify.com/user/0nj9ujjxp8c35clrkc2s1jcc5?si=921f62dd014c4206)
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun-vikash&theme=dark&hide_border=true">  
 
-##
-
-### :octocat: *Github Status* ![](https://komarev.com/ghpvc/?username=varun-vikash&color=blueviolet&style=flat-square) 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Varun-Vikash&count_private=true&show_icons=true&theme=dark"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun-vikash&theme=dark&hide_border=true">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun-vikash&theme=dark">
-
-<a href="https://github.com/Varun-Vikash"><img alt="Varun Vikash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Varun-Vikash&bg_color=000000&color=F1F1F1&line=1C74FA&point=cdcdcd" /></a>
 
 ##
 
